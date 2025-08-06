@@ -1,8 +1,9 @@
 #include <stdio.in>
 #include<conio.in>
 int main(){
-    printf("Hii world");
+    printf("Hello world");
     return 0;
 
 }
+
 
